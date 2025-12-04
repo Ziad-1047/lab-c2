@@ -1,5 +1,7 @@
 {
-  "version": 1,
-  "command": "get_info",
-  "arguments": {}
+  "version": 2,
+  "command": "display_message",
+  "arguments": {
+    "text": "This is a lab test."
+  }
 }
